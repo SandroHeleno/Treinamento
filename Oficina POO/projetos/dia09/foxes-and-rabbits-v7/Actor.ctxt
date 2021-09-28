@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=newActors
+comment0.target=void\ act(java.util.List)
+comment0.text=\r\n\ Make\ this\ actor\ act\ -\ that\ is\:\ make\ it\ do\r\n\ whatever\ it\ wants/needs\ to\ do.\r\n\ @param\ newActors\ A\ list\ to\ add\ newly\ born\ actors\ to.\r\n
+comment1.params=
+comment1.target=boolean\ isActive()
+comment1.text=\r\n\ Check\ whether\ the\ actor\ is\ active\ or\ not.\r\n\ @return\ true\ if\ the\ actor\ is\ still\ active.\r\n
+comment2.params=
+comment2.target=java.awt.Color\ getSimulationColor()
+comment2.text=\r\n\ Return\ the\ actor's\ simulation\ color.\r\n\ @return\ the\ actor's\ simulation\ color.\r\n
+numComments=3

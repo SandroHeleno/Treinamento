@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ActorFactory()
+comment1.params=field\ location
+comment1.target=Actor\ createActor(Field,\ Location)
+numComments=2
